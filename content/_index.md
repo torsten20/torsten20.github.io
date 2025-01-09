@@ -10,7 +10,7 @@ header_use_video: false
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
 header_headline: "Test Node"
-header_subheadline: "Hamburg Node"
+header_subheadline: "UK Node"
 
 set draft: false
 # Add a 'Go back to top' item to the navigation menu
