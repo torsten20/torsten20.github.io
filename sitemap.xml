@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://example.org/backup-pages/get_ready/</loc>
+  </url><url>
+    <loc>https://example.org/backup-pages/prepare/</loc>
+  </url><url>
+    <loc>https://example.org/backup-pages/travel/</loc>
+  </url><url>
+    <loc>https://example.org/backup-pages/room-plan/</loc>
+  </url><url>
+    <loc>https://example.org/backup-pages/ref_landing_page/</loc>
+  </url><url>
+    <loc>https://example.org/backup-pages/additional_information/</loc>
+  </url><url>
+    <loc>https://example.org/</loc>
+  </url><url>
+    <loc>https://example.org/backup-pages/hackathon_info/</loc>
+  </url><url>
+    <loc>https://example.org/backup-pages/lunch_options/</loc>
+  </url><url>
+    <loc>https://example.org/stipends_detail/</loc>
+  </url>
+</urlset>
